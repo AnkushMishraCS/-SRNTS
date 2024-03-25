@@ -1,0 +1,167 @@
+.accent-color {
+  color: #fd8b0b;
+}
+strong,
+b {
+  font-weight: 600;
+}
+b,
+strong {
+  font-weight: bold;
+}
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+user agent stylesheet strong {
+  font-weight: bold;
+}
+h4 {
+  font-size: 16px;
+  line-height: 22px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  margin: 0;
+  color: #444;
+}
+h4,
+.h4 {
+  font-size: 18px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  line-height: 1.1;
+}
+user agent stylesheet h4 {
+  font-weight: bold;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  line-height: 21px;
+  font-weight: 300;
+  color: #141414;
+  background: url(../images/patterns/1.png) fixed repeat;
+}
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.428571429;
+  color: #333;
+  background-color: #fff;
+}
+html {
+  font-size: 62.5%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.classic-title span {
+  border-bottom-color: #00afd1;
+}
+
+.classic-title span {
+  padding-bottom: 8px;
+  border-bottom: 1px solid;
+}
+.page-content p {
+  margin-bottom: 15px;
+}
+
+p {
+  color: #141414;
+  font-size: 13px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 22px;
+  margin: 0;
+}
+
+.col-md-11 {
+  margin-left: 255px;
+  margin: 0 0 10px;
+  margin-right: 233px;
+  margin-right: 200px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  left: 14%;
+  right: -116%;
+  margin-left: 10px;
+}
+
+.classic-title {
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #eee;
+}
+
+h4 {
+  font-size: 16px;
+  line-height: 22px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  margin: 0;
+  color: #444;
+}
+
+.classic-title span {
+  border-bottom-color: #00afd1;
+}
+
+.classic-title span {
+  position: relative;
+  display: flex;
+  padding-bottom: 8px;
+  border-bottom: 1px solid;
+  left: 16%;
+}
+.text-center{
+    color: red;
+}
